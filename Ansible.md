@@ -2,5 +2,5 @@
 
 ```bash
 sudo apt install python3-pip
-pip install ansible
+pip3 install ansible
 ```
